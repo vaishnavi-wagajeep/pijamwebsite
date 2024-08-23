@@ -1,0 +1,15 @@
+[submodule "themes/hugo-book"]
+	path = themes/hugo-book
+	url = https://github.com/alex-shpak/hugo-book
+[submodule "content/repo1"]
+	path = content/repo1
+	url = https://github.com/vaishnavi-wagajeep/content1-repo.git
+[submodule "content2-repo"]
+	path = content2-repo
+	url = https://github.com/vaishnavi-wagajeep/content2-repo.git
+[submodule "content/repo2"]
+	path = content/repo2
+	url = https://github.com/vaishnavi-wagajeep/content2-repo.git
+[submodule "content/repo3"]
+	path = content/repo3
+	url = https://github.com/vaishnavi-wagajeep/contentt3-repo.git

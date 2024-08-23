@@ -1,0 +1,8 @@
+[[module.imports]]
+  path = "content/repo1"
+
+[[module.imports]]
+  path = "content/repo2"
+
+[[module.imports]]
+  path = "content/repo3"
